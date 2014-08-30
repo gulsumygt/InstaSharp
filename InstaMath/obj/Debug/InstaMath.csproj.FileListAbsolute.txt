@@ -1,0 +1,14 @@
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\InstaMath.exe.config
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\InstaMath.exe
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\InstaMath.pdb
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\EntityFramework.dll
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\InstaSharp.dll
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\EntityFramework.xml
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\Newtonsoft.Json.pdb
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\bin\Debug\Newtonsoft.Json.xml
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\obj\Debug\InstaMath.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\obj\Debug\InstaMath.exe
+c:\users\hp\documents\visual studio 2013\Projects\InstaMath\InstaMath\obj\Debug\InstaMath.pdb
